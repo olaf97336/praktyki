@@ -1,0 +1,39 @@
+body{
+ background-color: #141414;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.blok{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex; /*to zrobilem uzywajac gemini*/
+    align-items: center; /*to zrobilem uzywajac gemini*/
+    justify-content: center; /*to zrobilem uzywajac gemini*/
+    height: 250px; width: 250px;
+    background-color: #2B2B2B;
+    border-radius: 25px;
+}
+
+.bloki{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap; /*to zrobilem uzywajac gemini*/
+    align-items: center; /*to zrobilem uzywajac gemini*/
+    justify-content: center; /*to zrobilem uzywajac gemini*/
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
